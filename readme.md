@@ -38,6 +38,7 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ##### Complementares Secundárias
 ![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square)
 ![Bash~/Shell](https://img.shields.io/badge/-Bash/Shell-black?style=flat-square)
