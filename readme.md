@@ -29,9 +29,7 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-470037?style=flat-square&logo=adobexd)
 ##### Complementares Principais
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=cachet&logoColor=white)
-![RegEx](https://img.shields.io/badge/-RegEx-black?style=flat-square&logo=cachet&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-black?style=flat-square&logo=cachet&logoColor=white)
-![Canvas](https://img.shields.io/badge/-Canvas-black?style=flat-square&logo=cachet&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square&logo=cachet&logoColor=white)
 
 #### Tecnologias Secundárias
@@ -52,8 +50,9 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ##### Complementares Secundárias
 ![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square&logo=cachet&logoColor=white)
-![Bash~/Shell](https://img.shields.io/badge/-Bash/Shell-black?style=flat-square&logo=cachet&logoColor=white)
 ![ActionScript3](https://img.shields.io/badge/-ActionScript3-black?style=flat-square&logo=cachet&logoColor=white)
+![RegEx](https://img.shields.io/badge/-RegEx-black?style=flat-square&logo=cachet&logoColor=white)
+![Canvas](https://img.shields.io/badge/-Canvas-black?style=flat-square&logo=cachet&logoColor=white)
 
 ### Conhecimento Linguístico
 Sempre fui um aluno exemplar em Português e isso me permitiu chegar ao ponto de começar a analisar a estrutura e origem das palavras na qual eu dizia. Majoritariamente, o português se originou do latim vulgar, tendo com base algumas mesclas entre o espanhol, italiano (que também possuem raízes no latim) e o grego. Foi tendo essa garra que eu acabei por desenvolver mais métodos de me comunicar, me aproximando com diversas partes da internet para angariar mais informações a respeito de programação.
