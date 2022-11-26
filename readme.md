@@ -40,7 +40,7 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ##### Complementares Secundárias
 ![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square)
 ![Bash~/Shell](https://img.shields.io/badge/-Bash/Shell-black?style=flat-square)
-![ActionScript](https://img.shields.io/badge/-ActionScript-black?style=flat-square)
+![ActionScript3](https://img.shields.io/badge/-ActionScript3-black?style=flat-square)
 
 ### Conhecimento Linguístico
 Sempre fui um aluno exemplar em Português e isso me permitiu chegar ao ponto de começar a analisar a estrutura e origem das palavras na qual eu dizia. Majoritariamente, o português se originou do latim vulgar, tendo com base algumas mesclas entre o espanhol, italiano (que também possuem raízes no latim) e o grego. Foi tendo essa garra que eu acabei por desenvolver mais métodos de me comunicar, me aproximando com diversas partes da internet para angariar mais informações a respeito de programação.
