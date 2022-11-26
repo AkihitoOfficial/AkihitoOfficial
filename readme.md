@@ -2,7 +2,6 @@
     <img src="https://raw.githubusercontent.com/akihitofficial/akihitofficial/main/images/header.png"/>
 </div>
 
-
 ## Introdução
 **Oi, eu me chamo Akihito** e sou programador full-stack, linguista e designer gráfico. Atualmente buscando expandir meus conhecimentos em mais linguagens para incluí-las oficialmente em meu repositório. Possuo dezenove anos e sou fluente em pelo menos três línguas: o **português brasileiro**, o **inglês** e o **latim** (compreensão); com base linguística em: **russo**, **alemão**, **sueco**, **italiano**, **japonês**, **espanhol**, **francês**, **tupi clássico** e **grego**.
 
