@@ -22,6 +22,7 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ![JSON](https://img.shields.io/badge/-JSON-838383?style=flat-square&logo=json)
 ![C#](https://img.shields.io/badge/-C%23-4a148c?style=flat-square&logo=csharp)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001e36?style=flat-square&logo=adobephotoshop)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-00005b?style=flat-square&logo=adobeaftereffects)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-470037?style=flat-square&logo=adobexd)
 
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square)
