@@ -35,17 +35,21 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square)
 
 #### Tecnologias Secundárias
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-54778c?style=flat-square&logo=c%2B%2B)
 ![React](https://img.shields.io/badge/-React-575d91?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
+![Angular.js](https://img.shields.io/badge/Angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ##### Complementares Secundárias
 ![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square)
 ![Bash~/Shell](https://img.shields.io/badge/-Bash/Shell-black?style=flat-square)
