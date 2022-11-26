@@ -20,6 +20,7 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ##### Complementares Principais
 ![NodeJS](https://img.shields.io/badge/-NodeJS-031c03?style=flat-square&logo=Node.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-1d2d39?style=flat-square&logo=jquery)
+![Electron](https://img.shields.io/badge/-Electron-lightblue?style=flat-square&logo=electron&logoColor=black)
 ![JSON](https://img.shields.io/badge/-JSON-838383?style=flat-square&logo=json)
 ![C#](https://img.shields.io/badge/-C%23-4a148c?style=flat-square&logo=csharp)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-00005b?style=flat-square&logo=adobeaftereffects)
