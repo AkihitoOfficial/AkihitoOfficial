@@ -16,12 +16,12 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ![PHP](https://img.shields.io/badge/-PHP-1a165f?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-5299cc?style=flat-square&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-bf360c?style=flat-square&logo=jameson&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001e36?style=flat-square&logo=adobephotoshop)
 ##### Complementares Principais
 ![NodeJS](https://img.shields.io/badge/-NodeJS-031c03?style=flat-square&logo=Node.js)
 ![jQuery](https://img.shields.io/badge/-jQuery-1d2d39?style=flat-square&logo=jquery)
 ![JSON](https://img.shields.io/badge/-JSON-838383?style=flat-square&logo=json)
 ![C#](https://img.shields.io/badge/-C%23-4a148c?style=flat-square&logo=csharp)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001e36?style=flat-square&logo=adobephotoshop)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-00005b?style=flat-square&logo=adobeaftereffects)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-470037?style=flat-square&logo=adobexd)
 
