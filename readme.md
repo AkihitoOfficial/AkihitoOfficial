@@ -26,10 +26,6 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001e36?style=flat-square&logo=adobephotoshop)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-00005b?style=flat-square&logo=adobeaftereffects)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-470037?style=flat-square&logo=adobexd)
-##### Complementares Principais
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=cachet&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-black?style=flat-square&logo=cachet&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-black?style=flat-square&logo=cachet&logoColor=white)
 
 #### Tecnologias Secundárias
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -47,11 +43,6 @@ Eu já programava sites simples com meus treze anos de idade, em 2016, contudo, 
 ![Angular.js](https://img.shields.io/badge/Angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-##### Complementares Secundárias
-![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square&logo=cachet&logoColor=white)
-![ActionScript3](https://img.shields.io/badge/-ActionScript3-black?style=flat-square&logo=cachet&logoColor=white)
-![RegEx](https://img.shields.io/badge/-RegEx-black?style=flat-square&logo=cachet&logoColor=white)
-![Canvas](https://img.shields.io/badge/-Canvas-black?style=flat-square&logo=cachet&logoColor=white)
 
 ### Conhecimento Linguístico
 Sempre fui um aluno exemplar em Português e isso me permitiu chegar ao ponto de começar a analisar a estrutura e origem das palavras na qual eu dizia. Majoritariamente, o português se originou do latim vulgar, tendo com base algumas mesclas entre o espanhol, italiano (que também possuem raízes no latim) e o grego. Foi tendo essa garra que eu acabei por desenvolver mais métodos de me comunicar, me aproximando com diversas partes da internet para angariar mais informações a respeito de programação.
